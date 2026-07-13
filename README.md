@@ -243,7 +243,7 @@ git clone https://github.com/yourusername/Multi-Protocol-Enterprise-Network-Simu
 
 # 👨‍💻 Author
 
-**Usman & Linta**
+**Usman & Linta Collaborates**
 
 Cyber Security Student | Network Security Enthusiast
 
